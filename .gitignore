@@ -11,6 +11,7 @@
 .mtj.tmp/
 
 # Filter DIR
+.ipynb_chekpoints
 .idea/*
 target/* 
 project/* 
